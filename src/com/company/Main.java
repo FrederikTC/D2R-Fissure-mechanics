@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hvor er fissure??");
         System.out.println("But wind is even better");
         System.out.println("dudu best class");
+        System.out.println("assasin is best");
     }
 }
