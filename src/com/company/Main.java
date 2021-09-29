@@ -8,5 +8,6 @@ public class Main {
         System.out.println("dudu best class");
         System.out.println("assasin is best");
         System.out.println("Nu lukker i røven");
+        System.out.println("Hej");
     }
 }
